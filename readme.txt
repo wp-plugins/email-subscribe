@@ -22,9 +22,9 @@ In pro version admin can create newsletter templates.Admin can send mass email o
 while sending email.In pro version user can be unsubscribe from newsletter email.Admin can see how have unsubscribed from newsletter.Admin can also export subscribers
 and admin can also import subscribers.Admin can mass delete subscribers.
 
-**Find WordPress Newsletter Subscription Pro Plugin (more fatures) at [Wordpress Newsletter Subscription Pro Plugin](http://www.i13websolution.com/wordpress-pro-plugins/wordpress-newsletter-subscription-pro-plugin.html)**
+**Find WordPress Newsletter Subscription Pro Plugin (more fatures) at [Wordpress Newsletter Subscription](http://www.i13websolution.com/wordpress-pro-plugins/wordpress-newsletter-subscription-pro-plugin.html)**
 
-**[Live Demo WordPress Newsletter Subscription Pro](http://www.i13websolution.com/wpdemo/wordpress-newsletter-subscription/)**
+**[Live Demo WordPress Newsletter Subscription Pro](http://www.i13websolution.com/wpdemo/)**
 
 **Please rate this plugin if you find it useful**
 
