@@ -33,7 +33,7 @@
            $table_name = $wpdb->prefix . "nl_subscriptions";
            $table_name2 = $wpdb->prefix . "newsletters_management";
            
-                  $sql = "CREATE TABLE IF NOT EXIST " . $table_name . " (
+                  $sql = "CREATE TABLE IF NOT EXISTS  " . $table_name . " (
                         `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
                         `name` varchar(200) NOT NULL,
                         `email` varchar(250) NOT NULL,
