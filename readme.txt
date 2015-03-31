@@ -22,6 +22,10 @@ Additionally admin can view list of subscribers and also can delete selected sub
 
 **[Live Demo WordPress Newsletter Subscription Pro](http://www.i13websolution.com/wpdemo/)**
 
+**Youtube Video [WordPress Newsletter Subscription Plugin](https://www.youtube.com/watch?v=nqrDS58RE9Q)**
+
+
+
 In pro version admin can create newsletter templates.Admin can send mass email or send mass email to selected subscribers.Admin can select newsletter template 
 while sending email.In pro version user can be unsubscribe from newsletter email.Admin can see how have unsubscribed from newsletter.Admin can also export subscribers
 and admin can also import subscribers.Admin can mass delete subscribers.
