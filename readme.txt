@@ -20,7 +20,7 @@ Additionally admin can view list of subscribers and also can delete selected sub
 
 **Find Email Subscription Pro Plugin at [Wordpress Newsletter Subscription](http://www.i13websolution.com/wordpress-pro-plugins/wordpress-newsletter-subscription-pro-plugin.html)**
 
-**[Live Demo WordPress Newsletter Subscription Pro](http://www.i13websolution.com/wpdemo/)**
+**[Live Demo WordPress Newsletter Subscription Pro](http://blog.i13websolution.com/live-preview-wp-newsletter-subscription-plugin/)**
 
 **Youtube Video [WordPress Newsletter Subscription Plugin](https://www.youtube.com/watch?v=nqrDS58RE9Q)**
 
