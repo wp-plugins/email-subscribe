@@ -883,9 +883,13 @@ function massEmailToEmail_Subscriber_Func(){
    
    
  $selfpage=$_SERVER['PHP_SELF']; 
+  
+ $action='';
+ if(isset($_REQUEST['action'])){  
+     
+   $action=$_REQUEST['action']; 
    
-   
- $action=$_REQUEST['action']; 
+ }
 ?>
 
 <?php         

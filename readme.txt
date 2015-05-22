@@ -3,7 +3,7 @@ Contributors:nik00726
 Tags:wordpress email subscription,Responsive newsletter signup,wordpress newsletter popup,newsletter widget,wordpress ,wordpress email subscription plugin popup,newsletter modal popup,wordpress email subscriber,wordpress,wordpress newsletter email
 Donate link: http://www.i13websolution.com/donate_for_mass_email.php
 Requires at least:3.0
-Tested up to:4.1
+Tested up to:4.2.2
 Version:1.0
 Stable tag:trunk
 License:GPLv2 or later
